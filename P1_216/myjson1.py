@@ -4,7 +4,7 @@
    发送request消息，返回的看着像字典，实际类型是字符串，我们为了方便操作，并获取相应的值，
    需要将字符串转换成字典或列表数据结构来操作'''
 
-
+https://my.oschina.net/yangyanxing/blog/280029
 import json
 s = '{"desc":"value1","status":"value2"}'
 l = "[11,22,33,44]"
