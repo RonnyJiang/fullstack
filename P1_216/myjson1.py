@@ -5,6 +5,7 @@
    需要将字符串转换成字典或列表数据结构来操作'''
 
 https://my.oschina.net/yangyanxing/blog/280029
+http://docs.python-requests.org/en/master/
 import json
 s = '{"desc":"value1","status":"value2"}'
 l = "[11,22,33,44]"
